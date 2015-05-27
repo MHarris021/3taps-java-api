@@ -1,0 +1,16 @@
+3taps:
+    useHttps: true
+    reference:
+        baseUrl: 3taps-reference.p.mashape.com
+        categoriesEndpoint: categories
+        categoryGroupsEndpoint: category_groups
+        dataSourcesEndpoint: sources
+        locationLookupsEndpoint: locations/lookups
+        locationsEndpoint: locations
+    polling:
+        baseUrl: 3taps-polling.p.mashape.com
+        anchorEndpoint: anchor
+        deletesEndpoint: deletes
+        pollEndpoint: poll
+    search:
+        baseUrl: 3taps-search-3taps.p.mashape.com

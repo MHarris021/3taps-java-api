@@ -1,0 +1,2219 @@
+{
+  "locations": [
+    {
+      "bounds_max_lat": 38.47212,
+      "bounds_max_long": 74.91574,
+      "bounds_min_lat": 29.40610,
+      "bounds_min_long": 60.50417,
+      "code": "AFG",
+      "full_name": "Afghanistan",
+      "short_name": "Afghanistan"
+    },
+    {
+      "bounds_max_lat": 60.40361,
+      "bounds_max_long": 20.44250,
+      "bounds_min_lat": 59.97694,
+      "bounds_min_long": 19.51056,
+      "code": "ALA",
+      "full_name": "\u00c5land Islands",
+      "short_name": "\u00c5land Islands"
+    },
+    {
+      "bounds_max_lat": 42.66194,
+      "bounds_max_long": 21.05416,
+      "bounds_min_lat": 39.64472,
+      "bounds_min_long": 19.28250,
+      "code": "ALB",
+      "full_name": "Albania",
+      "short_name": "Albania"
+    },
+    {
+      "bounds_max_lat": 37.09138,
+      "bounds_max_long": 11.98648,
+      "bounds_min_lat": 18.97639,
+      "bounds_min_long": -8.66722,
+      "code": "DZA",
+      "full_name": "Algeria",
+      "short_name": "Algeria"
+    },
+    {
+      "bounds_max_lat": -14.16639,
+      "bounds_max_long": -169.43832,
+      "bounds_min_lat": -14.37556,
+      "bounds_min_long": -170.82611,
+      "code": "ASM",
+      "full_name": "American Samoa",
+      "short_name": "American Samoa"
+    },
+    {
+      "bounds_max_lat": 42.65639,
+      "bounds_max_long": 1.78172,
+      "bounds_min_lat": 42.43610,
+      "bounds_min_long": 1.42139,
+      "code": "AND",
+      "full_name": "Andorra",
+      "short_name": "Andorra"
+    },
+    {
+      "bounds_max_lat": -4.38899,
+      "bounds_max_long": 24.08444,
+      "bounds_min_lat": -18.01639,
+      "bounds_min_long": 11.66333,
+      "code": "AGO",
+      "full_name": "Angola",
+      "short_name": "Angola"
+    },
+    {
+      "bounds_max_lat": 18.27666,
+      "bounds_max_long": -62.96945,
+      "bounds_min_lat": 18.16444,
+      "bounds_min_long": -63.16778,
+      "code": "AIA",
+      "full_name": "Anguilla",
+      "short_name": "Anguilla"
+    },
+    {
+      "bounds_max_lat": -60.50194,
+      "bounds_max_long": 180.00000,
+      "bounds_min_lat": -90.00000,
+      "bounds_min_long": -180.00000,
+      "code": "ATA",
+      "full_name": "Antarctica",
+      "short_name": "Antarctica"
+    },
+    {
+      "bounds_max_lat": 17.72500,
+      "bounds_max_long": -61.66639,
+      "bounds_min_lat": 16.98972,
+      "bounds_min_long": -61.89111,
+      "code": "ATG",
+      "full_name": "Antigua and Barbuda",
+      "short_name": "Antigua and Barbuda"
+    },
+    {
+      "bounds_max_lat": -21.78052,
+      "bounds_max_long": -53.64973,
+      "bounds_min_lat": -55.05167,
+      "bounds_min_long": -73.58362,
+      "code": "ARG",
+      "full_name": "Argentina",
+      "short_name": "Argentina"
+    },
+    {
+      "bounds_max_lat": 41.29705,
+      "bounds_max_long": 46.62249,
+      "bounds_min_lat": 38.84115,
+      "bounds_min_long": 43.45389,
+      "code": "ARM",
+      "full_name": "Armenia",
+      "short_name": "Armenia"
+    },
+    {
+      "bounds_max_lat": 12.63111,
+      "bounds_max_long": -69.87334,
+      "bounds_min_lat": 12.41111,
+      "bounds_min_long": -70.06334,
+      "code": "ABW",
+      "full_name": "Aruba",
+      "short_name": "Aruba"
+    },
+    {
+      "bounds_max_lat": -10.05139,
+      "bounds_max_long": 159.10190,
+      "bounds_min_lat": -54.75389,
+      "bounds_min_long": 112.90721,
+      "code": "AUS",
+      "full_name": "Australia",
+      "short_name": "Australia"
+    },
+    {
+      "bounds_max_lat": 49.01888,
+      "bounds_max_long": 17.16639,
+      "bounds_min_lat": 46.40749,
+      "bounds_min_long": 9.53357,
+      "code": "AUT",
+      "full_name": "Austria",
+      "short_name": "Austria"
+    },
+    {
+      "bounds_max_lat": 41.89706,
+      "bounds_max_long": 50.37499,
+      "bounds_min_lat": 38.38915,
+      "bounds_min_long": 44.77886,
+      "code": "AZE",
+      "full_name": "Azerbaijan",
+      "short_name": "Azerbaijan"
+    },
+    {
+      "bounds_max_lat": 26.92916,
+      "bounds_max_long": -72.73750,
+      "bounds_min_lat": 20.91528,
+      "bounds_min_long": -78.97890,
+      "code": "BHS",
+      "full_name": "Bahamas",
+      "short_name": "Bahamas"
+    },
+    {
+      "bounds_max_lat": 26.28889,
+      "bounds_max_long": 50.82250,
+      "bounds_min_lat": 25.57194,
+      "bounds_min_long": 50.45305,
+      "code": "BHR",
+      "full_name": "Bahrain",
+      "short_name": "Bahrain"
+    },
+    {
+      "bounds_max_lat": 26.63194,
+      "bounds_max_long": 92.66934,
+      "bounds_min_lat": 20.73805,
+      "bounds_min_long": 88.04332,
+      "code": "BGD",
+      "full_name": "Bangladesh",
+      "short_name": "Bangladesh"
+    },
+    {
+      "bounds_max_lat": 13.33722,
+      "bounds_max_long": -59.42695,
+      "bounds_min_lat": 13.05055,
+      "bounds_min_long": -59.65945,
+      "code": "BRB",
+      "full_name": "Barbados",
+      "short_name": "Barbados"
+    },
+    {
+      "bounds_max_lat": 56.16777,
+      "bounds_max_long": 32.74138,
+      "bounds_min_lat": 51.25185,
+      "bounds_min_long": 23.16540,
+      "code": "BLR",
+      "full_name": "Belarus",
+      "short_name": "Belarus"
+    },
+    {
+      "bounds_max_lat": 51.50361,
+      "bounds_max_long": 6.39820,
+      "bounds_min_lat": 49.50417,
+      "bounds_min_long": 2.54167,
+      "code": "BEL",
+      "full_name": "Belgium",
+      "short_name": "Belgium"
+    },
+    {
+      "bounds_max_lat": 18.48990,
+      "bounds_max_long": -87.77890,
+      "bounds_min_lat": 15.88985,
+      "bounds_min_long": -89.21640,
+      "code": "BLZ",
+      "full_name": "Belize",
+      "short_name": "Belize"
+    },
+    {
+      "bounds_max_lat": 12.39666,
+      "bounds_max_long": 3.85500,
+      "bounds_min_lat": 6.21872,
+      "bounds_min_long": 0.77667,
+      "code": "BEN",
+      "full_name": "Benin",
+      "short_name": "Benin"
+    },
+    {
+      "bounds_max_lat": 32.38222,
+      "bounds_max_long": -64.63863,
+      "bounds_min_lat": 32.26055,
+      "bounds_min_long": -64.87611,
+      "code": "BMU",
+      "full_name": "Bermuda",
+      "short_name": "Bermuda"
+    },
+    {
+      "bounds_max_lat": 28.32528,
+      "bounds_max_long": 92.11526,
+      "bounds_min_lat": 26.70305,
+      "bounds_min_long": 88.75194,
+      "code": "BTN",
+      "full_name": "Bhutan",
+      "short_name": "Bhutan"
+    },
+    {
+      "bounds_max_lat": -9.67920,
+      "bounds_max_long": -57.52112,
+      "bounds_min_lat": -22.90111,
+      "bounds_min_long": -69.65619,
+      "code": "BOL",
+      "full_name": "Bolivia",
+      "short_name": "Bolivia"
+    },
+    {
+      "bounds_max_lat": 45.26594,
+      "bounds_max_long": 19.62176,
+      "bounds_min_lat": 42.56583,
+      "bounds_min_long": 15.73639,
+      "code": "BIH",
+      "full_name": "Bosnia and Herzegovina",
+      "short_name": "Bosnia and Herzegovina"
+    },
+    {
+      "bounds_max_lat": -17.78139,
+      "bounds_max_long": 29.37362,
+      "bounds_min_lat": -26.87556,
+      "bounds_min_long": 19.99611,
+      "code": "BWA",
+      "full_name": "Botswana",
+      "short_name": "Botswana"
+    },
+    {
+      "bounds_max_lat": -54.38361,
+      "bounds_max_long": 3.48472,
+      "bounds_min_lat": -54.46278,
+      "bounds_min_long": 3.34167,
+      "code": "BVT",
+      "full_name": "Bouvet Island",
+      "short_name": "Bouvet Island"
+    },
+    {
+      "bounds_max_lat": 5.27389,
+      "bounds_max_long": -29.84000,
+      "bounds_min_lat": -33.74390,
+      "bounds_min_long": -74.01056,
+      "code": "BRA",
+      "full_name": "Brazil",
+      "short_name": "Brazil"
+    },
+    {
+      "bounds_max_lat": -5.24972,
+      "bounds_max_long": 72.49443,
+      "bounds_min_lat": -7.43667,
+      "bounds_min_long": 71.25861,
+      "code": "IOT",
+      "full_name": "British Indian Ocean Territory",
+      "short_name": "British Indian Ocean Territory"
+    },
+    {
+      "bounds_max_lat": 18.74861,
+      "bounds_max_long": -64.26918,
+      "bounds_min_lat": 18.38389,
+      "bounds_min_long": -64.70029,
+      "code": "VGB",
+      "full_name": "British Virgin Islands",
+      "short_name": "British Virgin Islands"
+    },
+    {
+      "bounds_max_lat": 5.05305,
+      "bounds_max_long": 115.36026,
+      "bounds_min_lat": 4.01750,
+      "bounds_min_long": 114.09508,
+      "code": "BRN",
+      "full_name": "Brunei Darussalam",
+      "short_name": "Brunei Darussalam"
+    },
+    {
+      "bounds_max_lat": 44.22472,
+      "bounds_max_long": 28.60638,
+      "bounds_min_lat": 41.24305,
+      "bounds_min_long": 22.36528,
+      "code": "BGR",
+      "full_name": "Bulgaria",
+      "short_name": "Bulgaria"
+    },
+    {
+      "bounds_max_lat": 15.08278,
+      "bounds_max_long": 2.39792,
+      "bounds_min_lat": 9.39389,
+      "bounds_min_long": -5.52111,
+      "code": "BFA",
+      "full_name": "Burkina Faso",
+      "short_name": "Burkina Faso"
+    },
+    {
+      "bounds_max_lat": 28.54916,
+      "bounds_max_long": 101.17082,
+      "bounds_min_lat": 9.78639,
+      "bounds_min_long": 92.20499,
+      "code": "MMR",
+      "full_name": "Burma",
+      "short_name": "Burma"
+    },
+    {
+      "bounds_max_lat": -2.29806,
+      "bounds_max_long": 30.85389,
+      "bounds_min_lat": -4.44806,
+      "bounds_min_long": 28.98389,
+      "code": "BDI",
+      "full_name": "Burundi",
+      "short_name": "Burundi"
+    },
+    {
+      "bounds_max_lat": 14.70862,
+      "bounds_max_long": 107.63638,
+      "bounds_min_lat": 10.42274,
+      "bounds_min_long": 102.34554,
+      "code": "KHM",
+      "full_name": "Cambodia",
+      "short_name": "Cambodia"
+    },
+    {
+      "bounds_max_lat": 13.08528,
+      "bounds_max_long": 16.20722,
+      "bounds_min_lat": 1.65417,
+      "bounds_min_long": 8.50222,
+      "code": "CMR",
+      "full_name": "Cameroon",
+      "short_name": "Cameroon"
+    },
+    {
+      "bounds_max_lat": 83.11388,
+      "bounds_max_long": -52.61445,
+      "bounds_min_lat": 41.67555,
+      "bounds_min_long": -141.00299,
+      "code": "CAN",
+      "full_name": "Canada",
+      "short_name": "Canada"
+    },
+    {
+      "bounds_max_lat": 17.19305,
+      "bounds_max_long": -22.66584,
+      "bounds_min_lat": 14.81111,
+      "bounds_min_long": -25.36056,
+      "code": "CPV",
+      "full_name": "Cape Verde",
+      "short_name": "Cape Verde"
+    },
+    {
+      "bounds_max_lat": 19.76222,
+      "bounds_max_long": -79.73279,
+      "bounds_min_lat": 19.26472,
+      "bounds_min_long": -81.40112,
+      "code": "CYM",
+      "full_name": "Cayman Islands",
+      "short_name": "Cayman Islands"
+    },
+    {
+      "bounds_max_lat": 11.00139,
+      "bounds_max_long": 27.46028,
+      "bounds_min_lat": 2.22083,
+      "bounds_min_long": 14.41861,
+      "code": "CAF",
+      "full_name": "Central African Republic",
+      "short_name": "Central African Republic"
+    },
+    {
+      "bounds_max_lat": 23.45055,
+      "bounds_max_long": 24.00275,
+      "bounds_min_lat": 7.45778,
+      "bounds_min_long": 13.46167,
+      "code": "TCD",
+      "full_name": "Chad",
+      "short_name": "Chad"
+    },
+    {
+      "bounds_max_lat": -17.50528,
+      "bounds_max_long": -66.41917,
+      "bounds_min_lat": -55.91972,
+      "bounds_min_long": -109.44917,
+      "code": "CHL",
+      "full_name": "Chile",
+      "short_name": "Chile"
+    },
+    {
+      "bounds_max_lat": 53.55444,
+      "bounds_max_long": 134.77359,
+      "bounds_min_lat": 18.16888,
+      "bounds_min_long": 73.61720,
+      "code": "CHN",
+      "full_name": "China",
+      "short_name": "China"
+    },
+    {
+      "bounds_max_lat": -10.38408,
+      "bounds_max_long": 105.75190,
+      "bounds_min_lat": -10.51097,
+      "bounds_min_long": 105.62900,
+      "code": "CXR",
+      "full_name": "Christmas Island",
+      "short_name": "Christmas Island"
+    },
+    {
+      "bounds_max_lat": -12.12833,
+      "bounds_max_long": 96.92442,
+      "bounds_min_lat": -12.20000,
+      "bounds_min_long": 96.81749,
+      "code": "CCK",
+      "full_name": "Cocos (Keeling) Islands",
+      "short_name": "Cocos (Keeling) Islands"
+    },
+    {
+      "bounds_max_lat": 13.37861,
+      "bounds_max_long": -66.87189,
+      "bounds_min_lat": -4.23687,
+      "bounds_min_long": -81.72278,
+      "code": "COL",
+      "full_name": "Colombia",
+      "short_name": "Colombia"
+    },
+    {
+      "bounds_max_lat": -11.36694,
+      "bounds_max_long": 44.53083,
+      "bounds_min_lat": -12.38306,
+      "bounds_min_long": 43.21361,
+      "code": "COM",
+      "full_name": "Comoros",
+      "short_name": "Comoros"
+    },
+    {
+      "bounds_max_lat": 3.71306,
+      "bounds_max_long": 18.64361,
+      "bounds_min_lat": -5.01944,
+      "bounds_min_long": 11.14066,
+      "code": "COG",
+      "full_name": "Congo",
+      "short_name": "Congo"
+    },
+    {
+      "bounds_max_lat": -8.94806,
+      "bounds_max_long": -157.30588,
+      "bounds_min_lat": -21.94083,
+      "bounds_min_long": -165.85028,
+      "code": "COK",
+      "full_name": "Cook Islands",
+      "short_name": "Cook Islands"
+    },
+    {
+      "bounds_max_lat": 11.21361,
+      "bounds_max_long": -82.56140,
+      "bounds_min_lat": 8.02567,
+      "bounds_min_long": -85.91139,
+      "code": "CRI",
+      "full_name": "Costa Rica",
+      "short_name": "Costa Rica"
+    },
+    {
+      "bounds_max_lat": 10.73526,
+      "bounds_max_long": -2.48778,
+      "bounds_min_lat": 4.34472,
+      "bounds_min_long": -8.60638,
+      "code": "CIV",
+      "full_name": "Cote d'Ivoire",
+      "short_name": "Cote d'Ivoire"
+    },
+    {
+      "bounds_max_lat": 46.53583,
+      "bounds_max_long": 19.42611,
+      "bounds_min_lat": 42.39666,
+      "bounds_min_long": 13.49639,
+      "code": "HRV",
+      "full_name": "Croatia",
+      "short_name": "Croatia"
+    },
+    {
+      "bounds_max_lat": 23.20417,
+      "bounds_max_long": -74.13084,
+      "bounds_min_lat": 19.82194,
+      "bounds_min_long": -84.95334,
+      "code": "CUB",
+      "full_name": "Cuba",
+      "short_name": "Cuba"
+    },
+    {
+      "bounds_max_lat": 35.69028,
+      "bounds_max_long": 34.59055,
+      "bounds_min_lat": 34.56255,
+      "bounds_min_long": 32.26916,
+      "code": "CYP",
+      "full_name": "Cyprus",
+      "short_name": "Cyprus"
+    },
+    {
+      "bounds_max_lat": 51.05360,
+      "bounds_max_long": 18.85222,
+      "bounds_min_lat": 48.58138,
+      "bounds_min_long": 12.09370,
+      "code": "CZE",
+      "full_name": "Czech Republic",
+      "short_name": "Czech Republic"
+    },
+    {
+      "bounds_max_lat": 5.38139,
+      "bounds_max_long": 31.30278,
+      "bounds_min_lat": -13.45806,
+      "bounds_min_long": 12.21455,
+      "code": "COD",
+      "full_name": "Democratic Republic of the Congo",
+      "short_name": "Democratic Republic of the Congo"
+    },
+    {
+      "bounds_max_lat": 57.74667,
+      "bounds_max_long": 15.15000,
+      "bounds_min_lat": 54.56166,
+      "bounds_min_long": 8.08722,
+      "code": "DNK",
+      "full_name": "Denmark",
+      "short_name": "Denmark"
+    },
+    {
+      "bounds_max_lat": 12.70833,
+      "bounds_max_long": 43.42083,
+      "bounds_min_lat": 10.94194,
+      "bounds_min_long": 41.75972,
+      "code": "DJI",
+      "full_name": "Djibouti",
+      "short_name": "Djibouti"
+    },
+    {
+      "bounds_max_lat": 15.63194,
+      "bounds_max_long": -61.25056,
+      "bounds_min_lat": 15.19806,
+      "bounds_min_long": -61.49139,
+      "code": "DMA",
+      "full_name": "Dominica",
+      "short_name": "Dominica"
+    },
+    {
+      "bounds_max_lat": 19.93111,
+      "bounds_max_long": -68.32224,
+      "bounds_min_lat": 17.54028,
+      "bounds_min_long": -72.00307,
+      "code": "DOM",
+      "full_name": "Dominican Republic",
+      "short_name": "Dominican Republic"
+    },
+    {
+      "bounds_max_lat": 1.43778,
+      "bounds_max_long": -75.21608,
+      "bounds_min_lat": -5.00913,
+      "bounds_min_long": -91.66390,
+      "code": "ECU",
+      "full_name": "Ecuador",
+      "short_name": "Ecuador"
+    },
+    {
+      "bounds_max_lat": 31.64694,
+      "bounds_max_long": 36.89833,
+      "bounds_min_lat": 21.99416,
+      "bounds_min_long": 24.70666,
+      "code": "EGY",
+      "full_name": "Egypt",
+      "short_name": "Egypt"
+    },
+    {
+      "bounds_max_lat": 14.43198,
+      "bounds_max_long": -87.68472,
+      "bounds_min_lat": 13.15639,
+      "bounds_min_long": -90.10834,
+      "code": "SLV",
+      "full_name": "El Salvador",
+      "short_name": "El Salvador"
+    },
+    {
+      "bounds_max_lat": 3.76333,
+      "bounds_max_long": 11.35389,
+      "bounds_min_lat": -1.47944,
+      "bounds_min_long": 5.61528,
+      "code": "GNQ",
+      "full_name": "Equatorial Guinea",
+      "short_name": "Equatorial Guinea"
+    },
+    {
+      "bounds_max_lat": 17.99488,
+      "bounds_max_long": 43.12138,
+      "bounds_min_lat": 12.36389,
+      "bounds_min_long": 36.44328,
+      "code": "ERI",
+      "full_name": "Eritrea",
+      "short_name": "Eritrea"
+    },
+    {
+      "bounds_max_lat": 59.66833,
+      "bounds_max_long": 28.19527,
+      "bounds_min_lat": 57.52222,
+      "bounds_min_long": 21.83194,
+      "code": "EST",
+      "full_name": "Estonia",
+      "short_name": "Estonia"
+    },
+    {
+      "bounds_max_lat": 14.88361,
+      "bounds_max_long": 47.98824,
+      "bounds_min_lat": 3.40639,
+      "bounds_min_long": 32.99110,
+      "code": "ETH",
+      "full_name": "Ethiopia",
+      "short_name": "Ethiopia"
+    },
+    {
+      "bounds_max_lat": -51.24945,
+      "bounds_max_long": -57.73139,
+      "bounds_min_lat": -52.34306,
+      "bounds_min_long": -61.31583,
+      "code": "FLK",
+      "full_name": "Falkland Islands (Malvinas)",
+      "short_name": "Falkland Islands (Malvinas)"
+    },
+    {
+      "bounds_max_lat": 62.39694,
+      "bounds_max_long": -6.38861,
+      "bounds_min_lat": 61.38833,
+      "bounds_min_long": -7.43500,
+      "code": "FRO",
+      "full_name": "Faroe Islands",
+      "short_name": "Faroe Islands"
+    },
+    {
+      "bounds_max_lat": -12.48194,
+      "bounds_max_long": 180.00000,
+      "bounds_min_lat": -20.67444,
+      "bounds_min_long": -180.00000,
+      "code": "FJI",
+      "full_name": "Fiji",
+      "short_name": "Fiji"
+    },
+    {
+      "bounds_max_lat": 70.08888,
+      "bounds_max_long": 31.58893,
+      "bounds_min_lat": 59.80499,
+      "bounds_min_long": 20.58093,
+      "code": "FIN",
+      "full_name": "Finland",
+      "short_name": "Finland"
+    },
+    {
+      "bounds_max_lat": 51.09111,
+      "bounds_max_long": 9.56222,
+      "bounds_min_lat": 41.36417,
+      "bounds_min_long": -5.13472,
+      "code": "FRA",
+      "full_name": "France",
+      "short_name": "France"
+    },
+    {
+      "bounds_max_lat": 5.75556,
+      "bounds_max_long": -51.64778,
+      "bounds_min_lat": 2.11222,
+      "bounds_min_long": -54.60378,
+      "code": "GUF",
+      "full_name": "French Guiana",
+      "short_name": "French Guiana"
+    },
+    {
+      "bounds_max_lat": -7.88833,
+      "bounds_max_long": -134.94141,
+      "bounds_min_lat": -27.91555,
+      "bounds_min_long": -152.87973,
+      "code": "PYF",
+      "full_name": "French Polynesia",
+      "short_name": "French Polynesia"
+    },
+    {
+      "bounds_max_lat": -17.05111,
+      "bounds_max_long": 77.58888,
+      "bounds_min_lat": -49.72501,
+      "bounds_min_long": 42.72111,
+      "code": "ATF",
+      "full_name": "French Southern and Antarctic Lands",
+      "short_name": "French Southern and Antarctic Lands"
+    },
+    {
+      "bounds_max_lat": 2.31790,
+      "bounds_max_long": 14.52056,
+      "bounds_min_lat": -3.92528,
+      "bounds_min_long": 8.69833,
+      "code": "GAB",
+      "full_name": "Gabon",
+      "short_name": "Gabon"
+    },
+    {
+      "bounds_max_lat": 13.82639,
+      "bounds_max_long": -13.79861,
+      "bounds_min_lat": 13.05998,
+      "bounds_min_long": -16.82167,
+      "code": "GMB",
+      "full_name": "Gambia",
+      "short_name": "Gambia"
+    },
+    {
+      "bounds_max_lat": 43.58472,
+      "bounds_max_long": 46.71082,
+      "bounds_min_lat": 41.04610,
+      "bounds_min_long": 40.00297,
+      "code": "GEO",
+      "full_name": "Georgia",
+      "short_name": "Georgia"
+    },
+    {
+      "bounds_max_lat": 55.05666,
+      "bounds_max_long": 15.03889,
+      "bounds_min_lat": 47.27472,
+      "bounds_min_long": 5.86417,
+      "code": "DEU",
+      "full_name": "Germany",
+      "short_name": "Germany"
+    },
+    {
+      "bounds_max_lat": 11.16667,
+      "bounds_max_long": 1.20278,
+      "bounds_min_lat": 4.72639,
+      "bounds_min_long": -3.24917,
+      "code": "GHA",
+      "full_name": "Ghana",
+      "short_name": "Ghana"
+    },
+    {
+      "bounds_max_lat": 36.16331,
+      "bounds_max_long": -5.33451,
+      "bounds_min_lat": 36.11218,
+      "bounds_min_long": -5.35624,
+      "code": "GIB",
+      "full_name": "Gibraltar",
+      "short_name": "Gibraltar"
+    },
+    {
+      "bounds_max_lat": 41.74832,
+      "bounds_max_long": 28.23805,
+      "bounds_min_lat": 34.80888,
+      "bounds_min_long": 19.37611,
+      "code": "GRC",
+      "full_name": "Greece",
+      "short_name": "Greece"
+    },
+    {
+      "bounds_max_lat": 83.62360,
+      "bounds_max_long": -12.15500,
+      "bounds_min_lat": 59.79028,
+      "bounds_min_long": -73.05360,
+      "code": "GRL",
+      "full_name": "Greenland",
+      "short_name": "Greenland"
+    },
+    {
+      "bounds_max_lat": 12.52916,
+      "bounds_max_long": -61.41862,
+      "bounds_min_lat": 11.99639,
+      "bounds_min_long": -61.78973,
+      "code": "GRD",
+      "full_name": "Grenada",
+      "short_name": "Grenada"
+    },
+    {
+      "bounds_max_lat": 17.93028,
+      "bounds_max_long": -60.98862,
+      "bounds_min_lat": 15.87000,
+      "bounds_min_long": -62.87306,
+      "code": "GLP",
+      "full_name": "Guadeloupe",
+      "short_name": "Guadeloupe"
+    },
+    {
+      "bounds_max_lat": 13.65361,
+      "bounds_max_long": 144.95331,
+      "bounds_min_lat": 13.23500,
+      "bounds_min_long": 144.63416,
+      "code": "GUM",
+      "full_name": "Guam",
+      "short_name": "Guam"
+    },
+    {
+      "bounds_max_lat": 17.82111,
+      "bounds_max_long": -88.21474,
+      "bounds_min_lat": 13.74583,
+      "bounds_min_long": -92.24678,
+      "code": "GTM",
+      "full_name": "Guatemala",
+      "short_name": "Guatemala"
+    },
+    {
+      "bounds_max_lat": 49.50889,
+      "bounds_max_long": -2.50028,
+      "bounds_min_lat": 49.42249,
+      "bounds_min_long": -2.67028,
+      "code": "GGY",
+      "full_name": "Guernsey",
+      "short_name": "Guernsey"
+    },
+    {
+      "bounds_max_lat": 12.67750,
+      "bounds_max_long": -7.64654,
+      "bounds_min_lat": 7.19889,
+      "bounds_min_long": -15.08111,
+      "code": "GIN",
+      "full_name": "Guinea",
+      "short_name": "Guinea"
+    },
+    {
+      "bounds_max_lat": 12.68472,
+      "bounds_max_long": -13.64306,
+      "bounds_min_lat": 10.92278,
+      "bounds_min_long": -16.71777,
+      "code": "GNB",
+      "full_name": "Guinea-Bissau",
+      "short_name": "Guinea-Bissau"
+    },
+    {
+      "bounds_max_lat": 8.53528,
+      "bounds_max_long": -56.47063,
+      "bounds_min_lat": 1.18556,
+      "bounds_min_long": -61.38972,
+      "code": "GUY",
+      "full_name": "Guyana",
+      "short_name": "Guyana"
+    },
+    {
+      "bounds_max_lat": 20.09222,
+      "bounds_max_long": -71.62889,
+      "bounds_min_lat": 18.02278,
+      "bounds_min_long": -74.46779,
+      "code": "HTI",
+      "full_name": "Haiti",
+      "short_name": "Haiti"
+    },
+    {
+      "bounds_max_lat": -52.96417,
+      "bounds_max_long": 73.77388,
+      "bounds_min_lat": -53.19945,
+      "bounds_min_long": 73.23444,
+      "code": "HMD",
+      "full_name": "Heard Island and McDonald Islands",
+      "short_name": "Heard Island and McDonald Islands"
+    },
+    {
+      "bounds_max_lat": 41.90799,
+      "bounds_max_long": 12.45666,
+      "bounds_min_lat": 41.90143,
+      "bounds_min_long": 12.44509,
+      "code": "VAT",
+      "full_name": "Holy See (Vatican City)",
+      "short_name": "Holy See (Vatican City)"
+    },
+    {
+      "bounds_max_lat": 17.42028,
+      "bounds_max_long": -83.13185,
+      "bounds_min_lat": 12.97972,
+      "bounds_min_long": -89.35196,
+      "code": "HND",
+      "full_name": "Honduras",
+      "short_name": "Honduras"
+    },
+    {
+      "bounds_max_lat": 22.55055,
+      "bounds_max_long": 114.39027,
+      "bounds_min_lat": 22.19361,
+      "bounds_min_long": 113.82277,
+      "code": "HKG",
+      "full_name": "Hong Kong",
+      "short_name": "Hong Kong"
+    },
+    {
+      "bounds_max_lat": 48.57666,
+      "bounds_max_long": 22.89480,
+      "bounds_min_lat": 45.74833,
+      "bounds_min_long": 16.11180,
+      "code": "HUN",
+      "full_name": "Hungary",
+      "short_name": "Hungary"
+    },
+    {
+      "bounds_max_lat": 66.53610,
+      "bounds_max_long": -13.49944,
+      "bounds_min_lat": 63.39000,
+      "bounds_min_long": -24.54222,
+      "code": "ISL",
+      "full_name": "Iceland",
+      "short_name": "Iceland"
+    },
+    {
+      "bounds_max_lat": 35.50610,
+      "bounds_max_long": 97.38054,
+      "bounds_min_lat": 6.74555,
+      "bounds_min_long": 68.13944,
+      "code": "IND",
+      "full_name": "India",
+      "short_name": "India"
+    },
+    {
+      "bounds_max_lat": 5.91389,
+      "bounds_max_long": 141.00702,
+      "bounds_min_lat": -10.93000,
+      "bounds_min_long": 95.00803,
+      "code": "IDN",
+      "full_name": "Indonesia",
+      "short_name": "Indonesia"
+    },
+    {
+      "bounds_max_lat": 39.78054,
+      "bounds_max_long": 63.34193,
+      "bounds_min_lat": 25.07528,
+      "bounds_min_long": 44.03416,
+      "code": "IRN",
+      "full_name": "Iran (Islamic Republic of)",
+      "short_name": "Iran (Islamic Republic of)"
+    },
+    {
+      "bounds_max_lat": 37.38472,
+      "bounds_max_long": 48.56388,
+      "bounds_min_lat": 29.06166,
+      "bounds_min_long": 38.79470,
+      "code": "IRQ",
+      "full_name": "Iraq",
+      "short_name": "Iraq"
+    },
+    {
+      "bounds_max_lat": 55.38027,
+      "bounds_max_long": -6.01306,
+      "bounds_min_lat": 51.44555,
+      "bounds_min_long": -10.47472,
+      "code": "IRL",
+      "full_name": "Ireland",
+      "short_name": "Ireland"
+    },
+    {
+      "bounds_max_lat": 54.41666,
+      "bounds_max_long": -4.30750,
+      "bounds_min_lat": 54.05555,
+      "bounds_min_long": -4.78861,
+      "code": "IMN",
+      "full_name": "Isle of Man",
+      "short_name": "Isle of Man"
+    },
+    {
+      "bounds_max_lat": 33.27027,
+      "bounds_max_long": 35.68305,
+      "bounds_min_lat": 29.48671,
+      "bounds_min_long": 34.26758,
+      "code": "ISR",
+      "full_name": "Israel",
+      "short_name": "Israel"
+    },
+    {
+      "bounds_max_lat": 47.09472,
+      "bounds_max_long": 18.51500,
+      "bounds_min_lat": 36.64916,
+      "bounds_min_long": 6.61976,
+      "code": "ITA",
+      "full_name": "Italy",
+      "short_name": "Italy"
+    },
+    {
+      "bounds_max_lat": 18.52250,
+      "bounds_max_long": -76.22112,
+      "bounds_min_lat": 17.69666,
+      "bounds_min_long": -78.37390,
+      "code": "JAM",
+      "full_name": "Jamaica",
+      "short_name": "Jamaica"
+    },
+    {
+      "bounds_max_lat": 45.48638,
+      "bounds_max_long": 153.96579,
+      "bounds_min_lat": 24.25083,
+      "bounds_min_long": 122.93526,
+      "code": "JPN",
+      "full_name": "Japan",
+      "short_name": "Japan"
+    },
+    {
+      "bounds_max_lat": 49.26111,
+      "bounds_max_long": -2.01500,
+      "bounds_min_lat": 49.16777,
+      "bounds_min_long": -2.24750,
+      "code": "JEY",
+      "full_name": "Jersey",
+      "short_name": "Jersey"
+    },
+    {
+      "bounds_max_lat": 33.37759,
+      "bounds_max_long": 39.30111,
+      "bounds_min_lat": 29.18889,
+      "bounds_min_long": 34.96000,
+      "code": "JOR",
+      "full_name": "Jordan",
+      "short_name": "Jordan"
+    },
+    {
+      "bounds_max_lat": 55.44471,
+      "bounds_max_long": 87.34821,
+      "bounds_min_lat": 40.59444,
+      "bounds_min_long": 46.49916,
+      "code": "KAZ",
+      "full_name": "Kazakhstan",
+      "short_name": "Kazakhstan"
+    },
+    {
+      "bounds_max_lat": 4.62250,
+      "bounds_max_long": 41.90517,
+      "bounds_min_lat": -4.66962,
+      "bounds_min_long": 33.90722,
+      "code": "KEN",
+      "full_name": "Kenya",
+      "short_name": "Kenya"
+    },
+    {
+      "bounds_max_lat": 4.72583,
+      "bounds_max_long": 176.85025,
+      "bounds_min_lat": -11.46666,
+      "bounds_min_long": -172.23334,
+      "code": "KIR",
+      "full_name": "Kiribati",
+      "short_name": "Kiribati"
+    },
+    {
+      "bounds_max_lat": 43.00832,
+      "bounds_max_long": 130.69742,
+      "bounds_min_lat": 37.67138,
+      "bounds_min_long": 124.32277,
+      "code": "PRK",
+      "full_name": "Korea, Democratic People's Republic of",
+      "short_name": "Korea"
+    },
+    {
+      "bounds_max_lat": 38.62524,
+      "bounds_max_long": 130.92413,
+      "bounds_min_lat": 33.19027,
+      "bounds_min_long": 124.60971,
+      "code": "KOR",
+      "full_name": "Korea, Republic of",
+      "short_name": "Korea"
+    },
+    {
+      "bounds_max_lat": 30.08444,
+      "bounds_max_long": 48.41659,
+      "bounds_min_lat": 28.53888,
+      "bounds_min_long": 46.54694,
+      "code": "KWT",
+      "full_name": "Kuwait",
+      "short_name": "Kuwait"
+    },
+    {
+      "bounds_max_lat": 43.21690,
+      "bounds_max_long": 80.28332,
+      "bounds_min_lat": 39.19186,
+      "bounds_min_long": 69.24887,
+      "code": "KGZ",
+      "full_name": "Kyrgyzstan",
+      "short_name": "Kyrgyzstan"
+    },
+    {
+      "bounds_max_lat": 22.50083,
+      "bounds_max_long": 107.69525,
+      "bounds_min_lat": 13.92666,
+      "bounds_min_long": 100.09137,
+      "code": "LAO",
+      "full_name": "Lao People's Democratic Republic",
+      "short_name": "Lao People's Democratic Republic"
+    },
+    {
+      "bounds_max_lat": 58.08444,
+      "bounds_max_long": 28.23777,
+      "bounds_min_lat": 55.67484,
+      "bounds_min_long": 20.96860,
+      "code": "LVA",
+      "full_name": "Latvia",
+      "short_name": "Latvia"
+    },
+    {
+      "bounds_max_lat": 34.64750,
+      "bounds_max_long": 36.62374,
+      "bounds_min_lat": 33.06194,
+      "bounds_min_long": 35.10083,
+      "code": "LBN",
+      "full_name": "Lebanon",
+      "short_name": "Lebanon"
+    },
+    {
+      "bounds_max_lat": -28.56945,
+      "bounds_max_long": 29.45611,
+      "bounds_min_lat": -30.65053,
+      "bounds_min_long": 27.01111,
+      "code": "LSO",
+      "full_name": "Lesotho",
+      "short_name": "Lesotho"
+    },
+    {
+      "bounds_max_lat": 8.51278,
+      "bounds_max_long": -7.36667,
+      "bounds_min_lat": 4.34333,
+      "bounds_min_long": -11.49233,
+      "code": "LBR",
+      "full_name": "Liberia",
+      "short_name": "Liberia"
+    },
+    {
+      "bounds_max_lat": 33.17114,
+      "bounds_max_long": 25.15278,
+      "bounds_min_lat": 19.49906,
+      "bounds_min_long": 9.30389,
+      "code": "LBY",
+      "full_name": "Libyan Arab Jamahiriya",
+      "short_name": "Libyan Arab Jamahiriya"
+    },
+    {
+      "bounds_max_lat": 47.27454,
+      "bounds_max_long": 9.63611,
+      "bounds_min_lat": 47.05746,
+      "bounds_min_long": 9.47464,
+      "code": "LIE",
+      "full_name": "Liechtenstein",
+      "short_name": "Liechtenstein"
+    },
+    {
+      "bounds_max_lat": 56.45083,
+      "bounds_max_long": 26.81972,
+      "bounds_min_lat": 53.88805,
+      "bounds_min_long": 20.94283,
+      "code": "LTU",
+      "full_name": "Lithuania",
+      "short_name": "Lithuania"
+    },
+    {
+      "bounds_max_lat": 50.18222,
+      "bounds_max_long": 6.52472,
+      "bounds_min_lat": 49.44833,
+      "bounds_min_long": 5.73444,
+      "code": "LUX",
+      "full_name": "Luxembourg",
+      "short_name": "Luxembourg"
+    },
+    {
+      "bounds_max_lat": 22.21444,
+      "bounds_max_long": 113.55637,
+      "bounds_min_lat": 22.18305,
+      "bounds_min_long": 113.53137,
+      "code": "MAC",
+      "full_name": "Macau",
+      "short_name": "Macau"
+    },
+    {
+      "bounds_max_lat": -11.94556,
+      "bounds_max_long": 50.50139,
+      "bounds_min_lat": -25.58834,
+      "bounds_min_long": 43.23682,
+      "code": "MDG",
+      "full_name": "Madagascar",
+      "short_name": "Madagascar"
+    },
+    {
+      "bounds_max_lat": -9.37334,
+      "bounds_max_long": 35.92416,
+      "bounds_min_lat": -17.13528,
+      "bounds_min_long": 32.67889,
+      "code": "MWI",
+      "full_name": "Malawi",
+      "short_name": "Malawi"
+    },
+    {
+      "bounds_max_lat": 7.35361,
+      "bounds_max_long": 119.27582,
+      "bounds_min_lat": 0.85278,
+      "bounds_min_long": 99.64082,
+      "code": "MYS",
+      "full_name": "Malaysia",
+      "short_name": "Malaysia"
+    },
+    {
+      "bounds_max_lat": 7.09639,
+      "bounds_max_long": 73.75360,
+      "bounds_min_lat": -0.69083,
+      "bounds_min_long": 72.68776,
+      "code": "MDV",
+      "full_name": "Maldives",
+      "short_name": "Maldives"
+    },
+    {
+      "bounds_max_lat": 25.00028,
+      "bounds_max_long": 4.25250,
+      "bounds_min_lat": 10.14111,
+      "bounds_min_long": -12.24483,
+      "code": "MLI",
+      "full_name": "Mali",
+      "short_name": "Mali"
+    },
+    {
+      "bounds_max_lat": 36.07500,
+      "bounds_max_long": 14.57000,
+      "bounds_min_lat": 35.80000,
+      "bounds_min_long": 14.18083,
+      "code": "MLT",
+      "full_name": "Malta",
+      "short_name": "Malta"
+    },
+    {
+      "bounds_max_lat": 14.59833,
+      "bounds_max_long": 172.09052,
+      "bounds_min_lat": 5.60028,
+      "bounds_min_long": 162.32358,
+      "code": "MHL",
+      "full_name": "Marshall Islands",
+      "short_name": "Marshall Islands"
+    },
+    {
+      "bounds_max_lat": 14.88028,
+      "bounds_max_long": -60.81667,
+      "bounds_min_lat": 14.40278,
+      "bounds_min_long": -61.23167,
+      "code": "MTQ",
+      "full_name": "Martinique",
+      "short_name": "Martinique"
+    },
+    {
+      "bounds_max_lat": 27.29046,
+      "bounds_max_long": -4.80611,
+      "bounds_min_lat": 14.72532,
+      "bounds_min_long": -17.07556,
+      "code": "MRT",
+      "full_name": "Mauritania",
+      "short_name": "Mauritania"
+    },
+    {
+      "bounds_max_lat": -10.31667,
+      "bounds_max_long": 63.49860,
+      "bounds_min_lat": -20.52056,
+      "bounds_min_long": 56.50722,
+      "code": "MUS",
+      "full_name": "Mauritius",
+      "short_name": "Mauritius"
+    },
+    {
+      "bounds_max_lat": -12.66250,
+      "bounds_max_long": 45.29333,
+      "bounds_min_lat": -12.99250,
+      "bounds_min_long": 45.03916,
+      "code": "MYT",
+      "full_name": "Mayotte",
+      "short_name": "Mayotte"
+    },
+    {
+      "bounds_max_lat": 32.71846,
+      "bounds_max_long": -86.70140,
+      "bounds_min_lat": 14.55055,
+      "bounds_min_long": -118.40417,
+      "code": "MEX",
+      "full_name": "Mexico",
+      "short_name": "Mexico"
+    },
+    {
+      "bounds_max_lat": 9.58944,
+      "bounds_max_long": 163.04330,
+      "bounds_min_lat": 5.26167,
+      "bounds_min_long": 138.05832,
+      "code": "FSM",
+      "full_name": "Micronesia, Federated States of",
+      "short_name": "Micronesia"
+    },
+    {
+      "bounds_max_lat": 43.77305,
+      "bounds_max_long": 7.43929,
+      "bounds_min_lat": 43.72755,
+      "bounds_min_long": 7.38639,
+      "code": "MCO",
+      "full_name": "Monaco",
+      "short_name": "Monaco"
+    },
+    {
+      "bounds_max_lat": 52.14361,
+      "bounds_max_long": 119.93498,
+      "bounds_min_lat": 41.58138,
+      "bounds_min_long": 87.75833,
+      "code": "MNG",
+      "full_name": "Mongolia",
+      "short_name": "Mongolia"
+    },
+    {
+      "bounds_max_lat": 43.55611,
+      "bounds_max_long": 20.38277,
+      "bounds_min_lat": 41.84900,
+      "bounds_min_long": 18.45333,
+      "code": "MNE",
+      "full_name": "Montenegro",
+      "short_name": "Montenegro"
+    },
+    {
+      "bounds_max_lat": 16.81361,
+      "bounds_max_long": -62.13750,
+      "bounds_min_lat": 16.67139,
+      "bounds_min_long": -62.23723,
+      "code": "MSR",
+      "full_name": "Montserrat",
+      "short_name": "Montserrat"
+    },
+    {
+      "bounds_max_lat": 35.91917,
+      "bounds_max_long": -1.01028,
+      "bounds_min_lat": 27.66424,
+      "bounds_min_long": -13.17496,
+      "code": "MAR",
+      "full_name": "Morocco",
+      "short_name": "Morocco"
+    },
+    {
+      "bounds_max_lat": -10.47111,
+      "bounds_max_long": 40.84611,
+      "bounds_min_lat": -26.86028,
+      "bounds_min_long": 30.21302,
+      "code": "MOZ",
+      "full_name": "Mozambique",
+      "short_name": "Mozambique"
+    },
+    {
+      "bounds_max_lat": -16.95278,
+      "bounds_max_long": 25.26443,
+      "bounds_min_lat": -28.96250,
+      "bounds_min_long": 11.71639,
+      "code": "NAM",
+      "full_name": "Namibia",
+      "short_name": "Namibia"
+    },
+    {
+      "bounds_max_lat": -0.49333,
+      "bounds_max_long": 166.95859,
+      "bounds_min_lat": -0.55222,
+      "bounds_min_long": 166.90442,
+      "code": "NRU",
+      "full_name": "Nauru",
+      "short_name": "Nauru"
+    },
+    {
+      "bounds_max_lat": 30.42500,
+      "bounds_max_long": 88.19582,
+      "bounds_min_lat": 26.36472,
+      "bounds_min_long": 80.05220,
+      "code": "NPL",
+      "full_name": "Nepal",
+      "short_name": "Nepal"
+    },
+    {
+      "bounds_max_lat": 53.51138,
+      "bounds_max_long": 7.21167,
+      "bounds_min_lat": 50.75388,
+      "bounds_min_long": 3.37087,
+      "code": "NLD",
+      "full_name": "Netherlands",
+      "short_name": "Netherlands"
+    },
+    {
+      "bounds_max_lat": 17.52194,
+      "bounds_max_long": -62.93639,
+      "bounds_min_lat": 12.02056,
+      "bounds_min_long": -69.16362,
+      "code": "ANT",
+      "full_name": "Netherlands Antilles",
+      "short_name": "Netherlands Antilles"
+    },
+    {
+      "bounds_max_lat": -19.11444,
+      "bounds_max_long": 171.31387,
+      "bounds_min_lat": -22.69416,
+      "bounds_min_long": 159.92221,
+      "code": "NCL",
+      "full_name": "New Caledonia",
+      "short_name": "New Caledonia"
+    },
+    {
+      "bounds_max_lat": -29.22306,
+      "bounds_max_long": 179.08273,
+      "bounds_min_lat": -52.57806,
+      "bounds_min_long": -178.61307,
+      "code": "NZL",
+      "full_name": "New Zealand",
+      "short_name": "New Zealand"
+    },
+    {
+      "bounds_max_lat": 15.02222,
+      "bounds_max_long": -82.72139,
+      "bounds_min_lat": 10.70861,
+      "bounds_min_long": -87.69307,
+      "code": "NIC",
+      "full_name": "Nicaragua",
+      "short_name": "Nicaragua"
+    },
+    {
+      "bounds_max_lat": 23.52230,
+      "bounds_max_long": 15.99667,
+      "bounds_min_lat": 11.69327,
+      "bounds_min_long": 0.16667,
+      "code": "NER",
+      "full_name": "Niger",
+      "short_name": "Niger"
+    },
+    {
+      "bounds_max_lat": 13.89150,
+      "bounds_max_long": 14.65805,
+      "bounds_min_lat": 4.27250,
+      "bounds_min_long": 2.69250,
+      "code": "NGA",
+      "full_name": "Nigeria",
+      "short_name": "Nigeria"
+    },
+    {
+      "bounds_max_lat": -18.96333,
+      "bounds_max_long": -169.78140,
+      "bounds_min_lat": -19.14556,
+      "bounds_min_long": -169.95306,
+      "code": "NIU",
+      "full_name": "Niue",
+      "short_name": "Niue"
+    },
+    {
+      "bounds_max_lat": -29.00056,
+      "bounds_max_long": 168.00000,
+      "bounds_min_lat": -29.08111,
+      "bounds_min_long": 167.90942,
+      "code": "NFK",
+      "full_name": "Norfolk Island",
+      "short_name": "Norfolk Island"
+    },
+    {
+      "bounds_max_lat": 20.55638,
+      "bounds_max_long": 145.87079,
+      "bounds_min_lat": 14.10528,
+      "bounds_min_long": 144.89859,
+      "code": "MNP",
+      "full_name": "Northern Mariana Islands",
+      "short_name": "Northern Mariana Islands"
+    },
+    {
+      "bounds_max_lat": 71.15471,
+      "bounds_max_long": 31.07805,
+      "bounds_min_lat": 57.98778,
+      "bounds_min_long": 4.62000,
+      "code": "NOR",
+      "full_name": "Norway",
+      "short_name": "Norway"
+    },
+    {
+      "bounds_max_lat": 26.38239,
+      "bounds_max_long": 59.84722,
+      "bounds_min_lat": 16.64278,
+      "bounds_min_long": 51.99929,
+      "code": "OMN",
+      "full_name": "Oman",
+      "short_name": "Oman"
+    },
+    {
+      "bounds_max_lat": 37.06259,
+      "bounds_max_long": 77.82393,
+      "bounds_min_lat": 23.68805,
+      "bounds_min_long": 60.86630,
+      "code": "PAK",
+      "full_name": "Pakistan",
+      "short_name": "Pakistan"
+    },
+    {
+      "bounds_max_lat": 7.72944,
+      "bounds_max_long": 134.65888,
+      "bounds_min_lat": 5.29222,
+      "bounds_min_long": 132.20831,
+      "code": "PLW",
+      "full_name": "Palau",
+      "short_name": "Palau"
+    },
+    {
+      "bounds_max_lat": 32.54639,
+      "bounds_max_long": 35.57330,
+      "bounds_min_lat": 31.21654,
+      "bounds_min_long": 34.21666,
+      "code": "PSE",
+      "full_name": "Palestine",
+      "short_name": "Palestine"
+    },
+    {
+      "bounds_max_lat": 9.62028,
+      "bounds_max_long": -77.19833,
+      "bounds_min_lat": 7.20611,
+      "bounds_min_long": -83.03029,
+      "code": "PAN",
+      "full_name": "Panama",
+      "short_name": "Panama"
+    },
+    {
+      "bounds_max_lat": -1.09833,
+      "bounds_max_long": 159.52304,
+      "bounds_min_lat": -11.64250,
+      "bounds_min_long": 140.85886,
+      "code": "PNG",
+      "full_name": "Papua New Guinea",
+      "short_name": "Papua New Guinea"
+    },
+    {
+      "bounds_max_lat": -19.29667,
+      "bounds_max_long": -54.24390,
+      "bounds_min_lat": -27.58834,
+      "bounds_min_long": -62.64377,
+      "code": "PRY",
+      "full_name": "Paraguay",
+      "short_name": "Paraguay"
+    },
+    {
+      "bounds_max_lat": -0.03139,
+      "bounds_max_long": -68.67390,
+      "bounds_min_lat": -18.34854,
+      "bounds_min_long": -81.35640,
+      "code": "PER",
+      "full_name": "Peru",
+      "short_name": "Peru"
+    },
+    {
+      "bounds_max_lat": 21.11805,
+      "bounds_max_long": 126.59804,
+      "bounds_min_lat": 4.64139,
+      "bounds_min_long": 116.95000,
+      "code": "PHL",
+      "full_name": "Philippines",
+      "short_name": "Philippines"
+    },
+    {
+      "bounds_max_lat": -24.32500,
+      "bounds_max_long": -124.77113,
+      "bounds_min_lat": -25.08223,
+      "bounds_min_long": -130.10748,
+      "code": "PCN",
+      "full_name": "Pitcairn Islands",
+      "short_name": "Pitcairn Islands"
+    },
+    {
+      "bounds_max_lat": 54.83694,
+      "bounds_max_long": 24.14472,
+      "bounds_min_lat": 49.00194,
+      "bounds_min_long": 14.14556,
+      "code": "POL",
+      "full_name": "Poland",
+      "short_name": "Poland"
+    },
+    {
+      "bounds_max_lat": 42.15274,
+      "bounds_max_long": -6.18722,
+      "bounds_min_lat": 32.63750,
+      "bounds_min_long": -31.29000,
+      "code": "PRT",
+      "full_name": "Portugal",
+      "short_name": "Portugal"
+    },
+    {
+      "bounds_max_lat": 18.51944,
+      "bounds_max_long": -65.24196,
+      "bounds_min_lat": 17.92222,
+      "bounds_min_long": -67.93834,
+      "code": "PRI",
+      "full_name": "Puerto Rico",
+      "short_name": "Puerto Rico"
+    },
+    {
+      "bounds_max_lat": 26.15361,
+      "bounds_max_long": 51.61583,
+      "bounds_min_lat": 24.55604,
+      "bounds_min_long": 50.75194,
+      "code": "QAT",
+      "full_name": "Qatar",
+      "short_name": "Qatar"
+    },
+    {
+      "bounds_max_lat": 48.46832,
+      "bounds_max_long": 30.13323,
+      "bounds_min_lat": 45.44865,
+      "bounds_min_long": 26.63500,
+      "code": "MDA",
+      "full_name": "Republic of Moldova",
+      "short_name": "Republic of Moldova"
+    },
+    {
+      "bounds_max_lat": -20.85639,
+      "bounds_max_long": 55.85305,
+      "bounds_min_lat": -21.37389,
+      "bounds_min_long": 55.21972,
+      "code": "REU",
+      "full_name": "Reunion",
+      "short_name": "Reunion"
+    },
+    {
+      "bounds_max_lat": 48.26388,
+      "bounds_max_long": 29.67250,
+      "bounds_min_lat": 43.62244,
+      "bounds_min_long": 20.26102,
+      "code": "ROU",
+      "full_name": "Romania",
+      "short_name": "Romania"
+    },
+    {
+      "bounds_max_lat": 81.85193,
+      "bounds_max_long": 180.00000,
+      "bounds_min_lat": 41.19609,
+      "bounds_min_long": -180.00000,
+      "code": "RUS",
+      "full_name": "Russia",
+      "short_name": "Russia"
+    },
+    {
+      "bounds_max_lat": -1.05389,
+      "bounds_max_long": 30.89444,
+      "bounds_min_lat": -2.82667,
+      "bounds_min_long": 28.85333,
+      "code": "RWA",
+      "full_name": "Rwanda",
+      "short_name": "Rwanda"
+    },
+    {
+      "bounds_max_lat": 18.07037,
+      "bounds_max_long": -63.01028,
+      "bounds_min_lat": 18.01555,
+      "bounds_min_long": -63.13984,
+      "code": "BLM",
+      "full_name": "Saint Barthelemy",
+      "short_name": "Saint Barthelemy"
+    },
+    {
+      "bounds_max_lat": -7.88306,
+      "bounds_max_long": -5.64528,
+      "bounds_min_lat": -40.40389,
+      "bounds_min_long": -14.41611,
+      "code": "SHN",
+      "full_name": "Saint Helena",
+      "short_name": "Saint Helena"
+    },
+    {
+      "bounds_max_lat": 17.41083,
+      "bounds_max_long": -62.53417,
+      "bounds_min_lat": 17.09166,
+      "bounds_min_long": -62.86389,
+      "code": "KNA",
+      "full_name": "Saint Kitts and Nevis",
+      "short_name": "Saint Kitts and Nevis"
+    },
+    {
+      "bounds_max_lat": 14.10944,
+      "bounds_max_long": -60.87806,
+      "bounds_min_lat": 13.70944,
+      "bounds_min_long": -61.07973,
+      "code": "LCA",
+      "full_name": "Saint Lucia",
+      "short_name": "Saint Lucia"
+    },
+    {
+      "bounds_max_lat": 18.12194,
+      "bounds_max_long": -63.00639,
+      "bounds_min_lat": 18.05860,
+      "bounds_min_long": -63.14667,
+      "code": "MAF",
+      "full_name": "Saint Martin",
+      "short_name": "Saint Martin"
+    },
+    {
+      "bounds_max_lat": 47.13666,
+      "bounds_max_long": -56.14416,
+      "bounds_min_lat": 46.74722,
+      "bounds_min_long": -56.39806,
+      "code": "SPM",
+      "full_name": "Saint Pierre and Miquelon",
+      "short_name": "Saint Pierre and Miquelon"
+    },
+    {
+      "bounds_max_lat": 13.38416,
+      "bounds_max_long": -61.12028,
+      "bounds_min_lat": 12.58444,
+      "bounds_min_long": -61.45417,
+      "code": "VCT",
+      "full_name": "Saint Vincent and the Grenadines",
+      "short_name": "Saint Vincent and the Grenadines"
+    },
+    {
+      "bounds_max_lat": -13.46056,
+      "bounds_max_long": -171.42865,
+      "bounds_min_lat": -14.05750,
+      "bounds_min_long": -172.78061,
+      "code": "WSM",
+      "full_name": "Samoa",
+      "short_name": "Samoa"
+    },
+    {
+      "bounds_max_lat": 43.98917,
+      "bounds_max_long": 12.51166,
+      "bounds_min_lat": 43.89555,
+      "bounds_min_long": 12.40389,
+      "code": "SMR",
+      "full_name": "San Marino",
+      "short_name": "San Marino"
+    },
+    {
+      "bounds_max_lat": 1.70194,
+      "bounds_max_long": 7.46417,
+      "bounds_min_lat": 0.01833,
+      "bounds_min_long": 6.46444,
+      "code": "STP",
+      "full_name": "Sao Tome and Principe",
+      "short_name": "Sao Tome and Principe"
+    },
+    {
+      "bounds_max_lat": 32.15494,
+      "bounds_max_long": 55.66611,
+      "bounds_min_lat": 15.61694,
+      "bounds_min_long": 34.49222,
+      "code": "SAU",
+      "full_name": "Saudi Arabia",
+      "short_name": "Saudi Arabia"
+    },
+    {
+      "bounds_max_lat": 16.69305,
+      "bounds_max_long": -11.36750,
+      "bounds_min_lat": 12.30175,
+      "bounds_min_long": -17.53722,
+      "code": "SEN",
+      "full_name": "Senegal",
+      "short_name": "Senegal"
+    },
+    {
+      "bounds_max_lat": 46.18139,
+      "bounds_max_long": 23.00500,
+      "bounds_min_lat": 41.85583,
+      "bounds_min_long": 18.81702,
+      "code": "SRB",
+      "full_name": "Serbia",
+      "short_name": "Serbia"
+    },
+    {
+      "bounds_max_lat": -4.28000,
+      "bounds_max_long": 56.28611,
+      "bounds_min_lat": -9.75500,
+      "bounds_min_long": 46.20416,
+      "code": "SYC",
+      "full_name": "Seychelles",
+      "short_name": "Seychelles"
+    },
+    {
+      "bounds_max_lat": 9.99750,
+      "bounds_max_long": -10.26417,
+      "bounds_min_lat": 6.92361,
+      "bounds_min_long": -13.29561,
+      "code": "SLE",
+      "full_name": "Sierra Leone",
+      "short_name": "Sierra Leone"
+    },
+    {
+      "bounds_max_lat": 1.44528,
+      "bounds_max_long": 103.99886,
+      "bounds_min_lat": 1.25889,
+      "bounds_min_long": 103.64081,
+      "code": "SGP",
+      "full_name": "Singapore",
+      "short_name": "Singapore"
+    },
+    {
+      "bounds_max_lat": 49.60083,
+      "bounds_max_long": 22.55805,
+      "bounds_min_lat": 47.73722,
+      "bounds_min_long": 16.84000,
+      "code": "SVK",
+      "full_name": "Slovakia",
+      "short_name": "Slovakia"
+    },
+    {
+      "bounds_max_lat": 46.87666,
+      "bounds_max_long": 16.60787,
+      "bounds_min_lat": 45.42582,
+      "bounds_min_long": 13.38306,
+      "code": "SVN",
+      "full_name": "Slovenia",
+      "short_name": "Slovenia"
+    },
+    {
+      "bounds_max_lat": -5.29306,
+      "bounds_max_long": 167.20996,
+      "bounds_min_lat": -11.84583,
+      "bounds_min_long": 155.50748,
+      "code": "SLB",
+      "full_name": "Solomon Islands",
+      "short_name": "Solomon Islands"
+    },
+    {
+      "bounds_max_lat": 11.97917,
+      "bounds_max_long": 51.41264,
+      "bounds_min_lat": -1.67487,
+      "bounds_min_long": 40.98660,
+      "code": "SOM",
+      "full_name": "Somalia",
+      "short_name": "Somalia"
+    },
+    {
+      "bounds_max_lat": -22.13639,
+      "bounds_max_long": 37.98167,
+      "bounds_min_lat": -46.96973,
+      "bounds_min_long": 16.48333,
+      "code": "ZAF",
+      "full_name": "South Africa",
+      "short_name": "South Africa"
+    },
+    {
+      "bounds_max_lat": -53.98972,
+      "bounds_max_long": -26.24139,
+      "bounds_min_lat": -59.47306,
+      "bounds_min_long": -38.03306,
+      "code": "SGS",
+      "full_name": "South Georgia South Sandwich Islands",
+      "short_name": "South Georgia South Sandwich Islands"
+    },
+    {
+      "bounds_max_lat": 43.77222,
+      "bounds_max_long": 4.31694,
+      "bounds_min_lat": 27.63750,
+      "bounds_min_long": -18.17056,
+      "code": "ESP",
+      "full_name": "Spain",
+      "short_name": "Spain"
+    },
+    {
+      "bounds_max_lat": 9.82833,
+      "bounds_max_long": 81.89166,
+      "bounds_min_lat": 5.91778,
+      "bounds_min_long": 79.65193,
+      "code": "LKA",
+      "full_name": "Sri Lanka",
+      "short_name": "Sri Lanka"
+    },
+    {
+      "bounds_max_lat": 22.23222,
+      "bounds_max_long": 38.60750,
+      "bounds_min_lat": 3.49339,
+      "bounds_min_long": 21.82777,
+      "code": "SDN",
+      "full_name": "Sudan",
+      "short_name": "Sudan"
+    },
+    {
+      "bounds_max_lat": 6.00306,
+      "bounds_max_long": -53.98417,
+      "bounds_min_lat": 1.83556,
+      "bounds_min_long": -58.07140,
+      "code": "SUR",
+      "full_name": "Suriname",
+      "short_name": "Suriname"
+    },
+    {
+      "bounds_max_lat": 80.76416,
+      "bounds_max_long": 36.85332,
+      "bounds_min_lat": 70.80386,
+      "bounds_min_long": -9.12006,
+      "code": "SJM",
+      "full_name": "Svalbard",
+      "short_name": "Svalbard"
+    },
+    {
+      "bounds_max_lat": -25.72834,
+      "bounds_max_long": 32.13340,
+      "bounds_min_lat": -27.31667,
+      "bounds_min_long": 30.79833,
+      "code": "SWZ",
+      "full_name": "Swaziland",
+      "short_name": "Swaziland"
+    },
+    {
+      "bounds_max_lat": 69.06030,
+      "bounds_max_long": 24.16861,
+      "bounds_min_lat": 55.33916,
+      "bounds_min_long": 11.10694,
+      "code": "SWE",
+      "full_name": "Sweden",
+      "short_name": "Sweden"
+    },
+    {
+      "bounds_max_lat": 47.80694,
+      "bounds_max_long": 10.48891,
+      "bounds_min_lat": 45.82944,
+      "bounds_min_long": 5.96611,
+      "code": "CHE",
+      "full_name": "Switzerland",
+      "short_name": "Switzerland"
+    },
+    {
+      "bounds_max_lat": 37.29054,
+      "bounds_max_long": 42.37917,
+      "bounds_min_lat": 32.31361,
+      "bounds_min_long": 35.61446,
+      "code": "SYR",
+      "full_name": "Syrian Arab Republic",
+      "short_name": "Syrian Arab Republic"
+    },
+    {
+      "bounds_max_lat": 26.22972,
+      "bounds_max_long": 122.00221,
+      "bounds_min_lat": 21.92777,
+      "bounds_min_long": 118.20583,
+      "code": "TWN",
+      "full_name": "Taiwan",
+      "short_name": "Taiwan"
+    },
+    {
+      "bounds_max_lat": 41.05022,
+      "bounds_max_long": 75.18748,
+      "bounds_min_lat": 36.67184,
+      "bounds_min_long": 67.36470,
+      "code": "TJK",
+      "full_name": "Tajikistan",
+      "short_name": "Tajikistan"
+    },
+    {
+      "bounds_max_lat": 20.45527,
+      "bounds_max_long": 105.63943,
+      "bounds_min_lat": 5.63111,
+      "bounds_min_long": 97.34526,
+      "code": "THA",
+      "full_name": "Thailand",
+      "short_name": "Thailand"
+    },
+    {
+      "bounds_max_lat": 42.36138,
+      "bounds_max_long": 23.03278,
+      "bounds_min_lat": 40.85589,
+      "bounds_min_long": 20.45778,
+      "code": "MKD",
+      "full_name": "The former Yugoslav Republic of Macedonia",
+      "short_name": "The former Yugoslav Republic of Macedonia"
+    },
+    {
+      "bounds_max_lat": -8.32444,
+      "bounds_max_long": 127.30859,
+      "bounds_min_lat": -9.46338,
+      "bounds_min_long": 124.04616,
+      "code": "TLS",
+      "full_name": "Timor-Leste",
+      "short_name": "Timor-Leste"
+    },
+    {
+      "bounds_max_lat": 11.13854,
+      "bounds_max_long": 1.79933,
+      "bounds_min_lat": 6.10055,
+      "bounds_min_long": -0.14976,
+      "code": "TGO",
+      "full_name": "Togo",
+      "short_name": "Togo"
+    },
+    {
+      "bounds_max_lat": -8.55361,
+      "bounds_max_long": -171.21143,
+      "bounds_min_lat": -9.38111,
+      "bounds_min_long": -172.50034,
+      "code": "TKL",
+      "full_name": "Tokelau",
+      "short_name": "Tokelau"
+    },
+    {
+      "bounds_max_lat": -15.56028,
+      "bounds_max_long": -173.90616,
+      "bounds_min_lat": -21.45417,
+      "bounds_min_long": -175.68472,
+      "code": "TON",
+      "full_name": "Tonga",
+      "short_name": "Tonga"
+    },
+    {
+      "bounds_max_lat": 11.34611,
+      "bounds_max_long": -60.52056,
+      "bounds_min_lat": 10.03750,
+      "bounds_min_long": -61.92445,
+      "code": "TTO",
+      "full_name": "Trinidad and Tobago",
+      "short_name": "Trinidad and Tobago"
+    },
+    {
+      "bounds_max_lat": 37.53944,
+      "bounds_max_long": 11.58333,
+      "bounds_min_lat": 30.23439,
+      "bounds_min_long": 7.49167,
+      "code": "TUN",
+      "full_name": "Tunisia",
+      "short_name": "Tunisia"
+    },
+    {
+      "bounds_max_lat": 42.10999,
+      "bounds_max_long": 44.82276,
+      "bounds_min_lat": 35.81750,
+      "bounds_min_long": 25.66388,
+      "code": "TUR",
+      "full_name": "Turkey",
+      "short_name": "Turkey"
+    },
+    {
+      "bounds_max_lat": 42.79778,
+      "bounds_max_long": 66.67248,
+      "bounds_min_lat": 35.14166,
+      "bounds_min_long": 52.44007,
+      "code": "TKM",
+      "full_name": "Turkmenistan",
+      "short_name": "Turkmenistan"
+    },
+    {
+      "bounds_max_lat": 21.95778,
+      "bounds_max_long": -71.12779,
+      "bounds_min_lat": 21.43028,
+      "bounds_min_long": -72.46806,
+      "code": "TCA",
+      "full_name": "Turks and Caicos Islands",
+      "short_name": "Turks and Caicos Islands"
+    },
+    {
+      "bounds_max_lat": -5.65778,
+      "bounds_max_long": 179.23228,
+      "bounds_min_lat": -8.56129,
+      "bounds_min_long": 176.06638,
+      "code": "TUV",
+      "full_name": "Tuvalu",
+      "short_name": "Tuvalu"
+    },
+    {
+      "bounds_max_lat": 4.22278,
+      "bounds_max_long": 35.00972,
+      "bounds_min_lat": -1.47611,
+      "bounds_min_long": 29.57083,
+      "code": "UGA",
+      "full_name": "Uganda",
+      "short_name": "Uganda"
+    },
+    {
+      "bounds_max_lat": 52.37972,
+      "bounds_max_long": 40.17972,
+      "bounds_min_lat": 44.37915,
+      "bounds_min_long": 22.15144,
+      "code": "UKR",
+      "full_name": "Ukraine",
+      "short_name": "Ukraine"
+    },
+    {
+      "bounds_max_lat": 26.08416,
+      "bounds_max_long": 56.38166,
+      "bounds_min_lat": 22.63333,
+      "bounds_min_long": 51.58333,
+      "code": "ARE",
+      "full_name": "United Arab Emirates",
+      "short_name": "United Arab Emirates"
+    },
+    {
+      "bounds_max_lat": 60.84444,
+      "bounds_max_long": 1.74944,
+      "bounds_min_lat": 49.91166,
+      "bounds_min_long": -8.62139,
+      "code": "GBR",
+      "full_name": "United Kingdom",
+      "short_name": "United Kingdom"
+    },
+    {
+      "bounds_max_lat": -0.99722,
+      "bounds_max_long": 40.43681,
+      "bounds_min_lat": -11.74084,
+      "bounds_min_long": 29.34083,
+      "code": "TZA",
+      "full_name": "United Republic of Tanzania",
+      "short_name": "United Republic of Tanzania"
+    },
+    {
+      "bounds_max_lat": 71.36581,
+      "bounds_max_long": 179.77747,
+      "bounds_min_lat": 18.92388,
+      "bounds_min_long": -179.14200,
+      "code": "USA",
+      "full_name": "United States",
+      "short_name": "United States"
+    },
+    {
+      "bounds_max_lat": 28.22194,
+      "bounds_max_long": 166.66248,
+      "bounds_min_lat": -0.39806,
+      "bounds_min_long": -177.39584,
+      "code": "UMI",
+      "full_name": "United States Minor Outlying Islands",
+      "short_name": "United States Minor Outlying Islands"
+    },
+    {
+      "bounds_max_lat": 18.37778,
+      "bounds_max_long": -64.56029,
+      "bounds_min_lat": 17.67667,
+      "bounds_min_long": -65.02695,
+      "code": "VIR",
+      "full_name": "United States Virgin Islands",
+      "short_name": "United States Virgin Islands"
+    },
+    {
+      "bounds_max_lat": -30.09667,
+      "bounds_max_long": -53.09306,
+      "bounds_min_lat": -34.94889,
+      "bounds_min_long": -58.43861,
+      "code": "URY",
+      "full_name": "Uruguay",
+      "short_name": "Uruguay"
+    },
+    {
+      "bounds_max_lat": 45.57111,
+      "bounds_max_long": 73.17304,
+      "bounds_min_lat": 37.18388,
+      "bounds_min_long": 55.99749,
+      "code": "UZB",
+      "full_name": "Uzbekistan",
+      "short_name": "Uzbekistan"
+    },
+    {
+      "bounds_max_lat": -13.07056,
+      "bounds_max_long": 170.23523,
+      "bounds_min_lat": -20.25417,
+      "bounds_min_long": 166.51666,
+      "code": "VUT",
+      "full_name": "Vanuatu",
+      "short_name": "Vanuatu"
+    },
+    {
+      "bounds_max_lat": 12.19889,
+      "bounds_max_long": -59.80139,
+      "bounds_min_lat": 0.64861,
+      "bounds_min_long": -73.37807,
+      "code": "VEN",
+      "full_name": "Venezuela",
+      "short_name": "Venezuela"
+    },
+    {
+      "bounds_max_lat": 23.33472,
+      "bounds_max_long": 109.46638,
+      "bounds_min_lat": 8.55861,
+      "bounds_min_long": 102.14075,
+      "code": "VNM",
+      "full_name": "Viet Nam",
+      "short_name": "Viet Nam"
+    },
+    {
+      "bounds_max_lat": -13.21361,
+      "bounds_max_long": -176.12109,
+      "bounds_min_lat": -14.32389,
+      "bounds_min_long": -178.19110,
+      "code": "WLF",
+      "full_name": "Wallis and Futuna Islands",
+      "short_name": "Wallis and Futuna Islands"
+    },
+    {
+      "bounds_max_lat": 27.66696,
+      "bounds_max_long": -8.66639,
+      "bounds_min_lat": 20.76410,
+      "bounds_min_long": -17.10528,
+      "code": "ESH",
+      "full_name": "Western Sahara",
+      "short_name": "Western Sahara"
+    },
+    {
+      "bounds_max_lat": 18.99934,
+      "bounds_max_long": 54.47694,
+      "bounds_min_lat": 12.10611,
+      "bounds_min_long": 42.55583,
+      "code": "YEM",
+      "full_name": "Yemen",
+      "short_name": "Yemen"
+    },
+    {
+      "bounds_max_lat": -8.19167,
+      "bounds_max_long": 33.70228,
+      "bounds_min_lat": -18.07613,
+      "bounds_min_long": 21.99639,
+      "code": "ZMB",
+      "full_name": "Zambia",
+      "short_name": "Zambia"
+    },
+    {
+      "bounds_max_lat": -15.61611,
+      "bounds_max_long": 33.07305,
+      "bounds_min_lat": -22.41476,
+      "bounds_min_long": 25.23666,
+      "code": "ZWE",
+      "full_name": "Zimbabwe",
+      "short_name": "Zimbabwe"
+    }
+  ],
+  "success": true
+}
