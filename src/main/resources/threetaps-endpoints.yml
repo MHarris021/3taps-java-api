@@ -1,0 +1,15 @@
+3taps:
+    useHttps: false
+    reference:
+        baseUrl: reference.3taps.com
+        categoriesEndpoint: categories
+        categoryGroupsEndpoint: category_groups
+        dataSourcesEndpoint: sources
+        locationLookupsEndpoint: locations/lookups
+        locationsEndpoint: locations
+    polling:
+        baseUrl: polling.3taps.com
+        anchorEndpoint: anchor
+        pollEndpoint: poll
+    search:
+        baseUrl: search.3taps.com

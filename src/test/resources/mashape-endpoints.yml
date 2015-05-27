@@ -10,7 +10,6 @@
     polling:
         baseUrl: 3taps-polling.p.mashape.com
         anchorEndpoint: anchor
-        deletesEndpoint: deletes
         pollEndpoint: poll
     search:
         baseUrl: 3taps-search-3taps.p.mashape.com
